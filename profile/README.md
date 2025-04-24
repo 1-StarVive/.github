@@ -8,7 +8,8 @@
 
 # 🛠️ **Tech Stacks**
 
-Frontend
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,7 +20,8 @@ Frontend
 ![Valibot](https://img.shields.io/badge/Valibot-2B90D9?style=for-the-badge)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
-Backend
+**Backend**
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,14 +33,15 @@ Backend
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
+**Infra**
 
-Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-협업
+**협업**
+
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -46,18 +49,20 @@ Infra
 
 # 📢 **서비스 아키텍처**
 
-
 # 📢 **ERD**
+
 ![Demo Screenshot](./assets/images/erd.png)
 
 # 📅 **프로젝트 기간**
+
 전체 프로젝트 기간 : 2024-03-11 ~ 2024-04-23
 
 # **팀원 소개**
-| Name   | Position       | GitHub                                      |
-|--------|----------------|---------------------------------------------|
-| 김동희 | Leader Frontend | [bababu1](https://github.com/bababu1)         |
+
+| Name   | Position        | GitHub                                      |
+| ------ | --------------- | ------------------------------------------- |
+| 김동희 | Leader Frontend | [bababu1](https://github.com/bababu1)       |
 | 박자겸 | Frontend        | [pjg3335](https://github.com/pjg3335)       |
-| 김보미 | BackEnd        | [kbm8527](https://github.com/kbm8527)       |
-| 신효철 | Infra BackEnd  | [HCSHIN123](https://github.com/HCSHIN123)       |
-| 최지호 | BackEnd | [jijihorang](https://github.com/jijihorang) |
+| 김보미 | BackEnd         | [kbm8527](https://github.com/kbm8527)       |
+| 신효철 | Infra BackEnd   | [HCSHIN123](https://github.com/HCSHIN123)   |
+| 최지호 | BackEnd         | [jijihorang](https://github.com/jijihorang) |
