@@ -1,8 +1,18 @@
-📢 **프로젝트 소개**
+# 📢  **Project Overview**
 
 이 프로젝트는 신세계 I&C가 주관한 **스파로스 아카데미**에서 진행된 스타벅스 온라인 스토어 **클론 코딩 프로젝트**입니다.
 
 
-📢 **Starvive.store 보러가기**
+# 📢  **Starvive.store 보러가기**
 🌐 [배포 링크](https://starvive.store)
 
+# 🛠️ **Tech Stacks**
+Frontend
+
+Backend
+
+Infra 
+
+협업 
+
+# 📢 **서비스 아키텍처**
