@@ -49,3 +49,12 @@ Infra
 
 # 📢 **ERD**
 ![Demo Screenshot](./assets/images/erd.png)
+
+# 팀원 소개
+| Name   | Position       | GitHub                                      |
+|--------|----------------|---------------------------------------------|
+| 김동희 | Leader Frontend | [bababu1](https://github.com/bababu1)         |
+| 박자겸 | Frontend        | [pjg3335](https://github.com/pjg3335)       |
+| 김보미 | BackEnd        | [kbm8527](https://github.com/kbm8527)       |
+| 신효철 | Infra BackEnd  | [HCSHIN123](https://github.com/HCSHIN123)       |
+| 최지호 | BackEnd | [jijihorang](https://github.com/jijihorang) |
