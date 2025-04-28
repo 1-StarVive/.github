@@ -69,3 +69,38 @@
 | 김보미 | BackEnd         | [kbm8527](https://github.com/kbm8527)       |
 | 신효철 | Infra BackEnd   | [HCSHIN123](https://github.com/HCSHIN123)   |
 | 최지호 | BackEnd         | [jijihorang](https://github.com/jijihorang) |
+
+# 🌟 **구현 화면 소개**
+
+<table>
+<tr>
+<td><img src="./assets/images/메인%20페이지.png"/></td>
+<td><img src="./assets/images/로그인%20알림%20페이지.png"/></td>
+<td><img src="./assets/images/회원가입%20페이지%201.png"/></td>
+</tr>
+<tr>
+<td><img src="./assets/images/회원가입%20페이지%202.png"/></td>
+<td><img src="./assets/images/회원가입%20페이지%203.png"/></td>
+<td><img src="./assets/images/회원가입%20페이지%204.png"/></td>
+</tr>
+<tr>
+<td><img src="./assets/images/회원가입%20페이지%205.png"/></td>
+<td><img src="./assets/images/회원가입%20페이지%206.png"/></td>
+<td><img src="./assets/images/회원가입%20완료%20페이지.png"/></td>
+</tr>
+<tr>
+<td><img src="./assets/images/로그인%20페이지.png"/></td>
+<td><img src="./assets/images/소셜%20로그인%20페이지.png"/></td>
+<td><img src="./assets/images/기획전%20페이지.png"/></td>
+</tr>
+<tr>
+<td><img src="./assets/images/기획전%20상품%20페이지.png"/></td>
+<td><img src="./assets/images/베스트%20상품%20페이지.png"/></td>
+<td><img src="./assets/images/카테고리%20페이지.png"/></td>
+</tr>
+<tr>
+<td><img src="./assets/images/카테고리별%20상품%20페이지.png"/></td>
+<td><img src="./assets/images/상품%20상세%20조회%20페이지.png"/></td>
+<td><img src="./assets/images/추천%20섹션%20페이지.png"/></td>
+</tr>
+</table>
