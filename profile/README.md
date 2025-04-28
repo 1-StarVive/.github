@@ -48,9 +48,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 # 📢 **서비스 아키텍처**
+![시스템 아키텍쳐](./assets/images/시스템%20아키텍쳐.png)
+
+# 📢 **CI/CD 아키텍처**
+![CI/CD 아키텍쳐](./assets/images/CI:CD%20아키텍쳐.png)
 
 # 📢 **ERD**
-
 ![Demo Screenshot](./assets/images/erd.png)
 
 # 📅 **프로젝트 기간**
